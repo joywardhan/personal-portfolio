@@ -1,6 +1,7 @@
 body{font-family: 'Poppins', sans-serif;margin: 0px;padding: 0px;}
 h1{font-size: 50px;text-transform: capitalize;}
 #first-section{display: flex;margin-bottom :100px;background-image: url(images/top-banner.png);background-repeat: no-repeat;}
+p{color: #444;}
 .first-div{width: 50%;padding-left: 7%;}
 .first-div img{width:100%;}
 .first-span{color: orange;}
@@ -12,3 +13,10 @@ h1{font-size: 50px;text-transform: capitalize;}
 .second-half h2{font-size: 40px;text-transform: capitalize;}
 .second-half h3{text-transform: capitalize;}
 .second-half a{text-decoration: none;text-transform: uppercase;background-image: linear-gradient(lightsalmon,tomato);padding: 10px 40px;color: #fff;}
+#experiences{margin-bottom: 100px;background-image: url(images/exp-bg.png);background-repeat: no-repeat;background-position: left bottom;}
+#experiences h2{font-size: 33px;}
+.experiences-div{display: flex;}
+.third-half1,.third-half2{width: 42%;margin-left: 3%;margin-right: 3%;box-shadow: 10px 10px 40px gray;padding-left: 20px;border-radius: 10px;}
+.third-half1{border-left: 7px solid;border-image: linear-gradient(lightsalmon,tomato);border-image-slice: 1;}
+.third-half2{border-left: 7px solid;border-image: linear-gradient(blue,cyan);border-image-slice: 1;}
+footer p{text-align: center;}
