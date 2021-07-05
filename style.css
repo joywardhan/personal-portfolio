@@ -1,7 +1,7 @@
-body{font-family: 'Poppins', sans-serif;}
+body{font-family: 'Poppins', sans-serif;margin: 0px;padding: 0px;}
 h1{font-size: 50px;text-transform: capitalize;}
-#first-section{display: flex;}
-.first-div{width: 50%;padding-left: 5%;}
+#first-section{display: flex;background-image: url(images/top-banner.png);background-repeat: no-repeat;}
+.first-div{width: 50%;padding-left: 7%;}
 .first-div img{width:100%;}
 .first-span{color: orange;}
 .first-div h3{text-transform: capitalize;}
