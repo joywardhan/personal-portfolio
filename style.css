@@ -1,1 +1,8 @@
 body{font-family: 'Poppins', sans-serif;}
+h1{font-size: 50px;text-transform: capitalize;}
+#first-section{display: flex;}
+.first-div{width: 50%;padding-left: 5%;}
+.first-div img{width:100%;}
+.first-span{color: orange;}
+.first-div h3{text-transform: capitalize;}
+.ancore-tag{text-transform: uppercase;text-decoration: none;background-image: linear-gradient(orange,tomato);padding: 10px 40px;border-radius: 5px;color: #fff;}
