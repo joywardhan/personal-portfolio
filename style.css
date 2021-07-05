@@ -5,4 +5,10 @@ h1{font-size: 50px;text-transform: capitalize;}
 .first-div img{width:100%;}
 .first-span{color: orange;}
 .first-div h3{text-transform: capitalize;}
-.ancore-tag{text-transform: uppercase;text-decoration: none;background-image: linear-gradient(orange,tomato);padding: 10px 40px;border-radius: 5px;color: #fff;}
+.ancore-tag{text-transform: uppercase;text-decoration: none;background-image: linear-gradient(lightsalmon,tomato);padding: 10px 40px;border-radius: 5px;color: #fff;}
+#dream-section{display: flex;}
+.second-half{width: 50%;padding: 5%;}
+.second-half img{width: 100%;}
+.second-half h2{font-size: 40px;text-transform: capitalize;}
+.second-half h3{text-transform: capitalize;}
+.second-half a{text-decoration: none;text-transform: uppercase;background-image: linear-gradient(lightsalmon,tomato);padding: 10px 40px;color: #fff;}
